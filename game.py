@@ -2,7 +2,8 @@
 
 import random
 
-print("Welcome to Rock, Paper, and Scissor Game")
+print("*********   Welcome to Rock, Paper, and Scissor's  Game   **********")
+print("")
 isgameready = input("Are You Ready (yes/no): ")
 print("")
 
